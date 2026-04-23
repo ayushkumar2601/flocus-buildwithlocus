@@ -7,4 +7,7 @@ vite.config.ts.*
 .env
 .env.local
 .env.*.local
-.md
+
+# Exclude all markdown files
+*.md
+**/*.md
